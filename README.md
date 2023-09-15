@@ -11,6 +11,7 @@ Activity 4
 
 Activity 5
 <img width="466" alt="Screenshot 2023-09-14 at 9 49 28 PM" src="https://github.com/hugoguan17/ECE444-F2023-Assignment1/assets/144826463/8feea0fb-cc73-4003-99fe-7f1c5bbad10f">
-<img width="466" alt="Screenshot 2023-09-14 at 9 49 28 PM" src="https://github.com/hugoguan17/ECE444-F2023-Assignment1/assets/144826463/b0119cf6-c651-4c0f-8aa5-63d3f9e3b67a">
+<img width="608" alt="Screenshot 2023-09-14 at 9 48 32 PM" src="https://github.com/hugoguan17/ECE444-F2023-Assignment1/assets/144826463/ed98ce81-8b1c-46ed-8b9d-c43edc27c114">
+<img width="626" alt="image" src="https://github.com/hugoguan17/ECE444-F2023-Assignment1/assets/144826463/29f77bba-0218-4aee-b631-241f8d63ccae">
 
 
